@@ -13,7 +13,7 @@
 ```
 - Will draw a game to match the dimensions of the console window
 - `Trail` mode is for debugging to see where the bird has been throughout the duration of the game
-- *__Note__: If you've never run PowerShell Scripts before refer to **Setup PowerShell Section** Below*
+- *__Note__: If you've never run PowerShell Scripts before refer to __Setup PowerShell Section__ Below*
 
 ## Features
 >
