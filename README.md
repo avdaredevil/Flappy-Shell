@@ -3,8 +3,8 @@
 
 ## Screenshots
 >
-#### Normal Mode:
-![image](https://cloud.githubusercontent.com/assets/5303018/19415409/73b17e26-933d-11e6-89db-88ae4bab49d1.png)
+#### Sample Flight:
+![image](https://cloud.githubusercontent.com/assets/5303018/19415444/6ab1c866-933e-11e6-8be5-b89638c79dfe.png)
 
 ## Usage
 >
