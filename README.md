@@ -40,6 +40,6 @@ Key Code         | Usage
 > - Open PowerShell with Admin Access
 - Run `Set-ExecutionPolicy Bypass`
 - This allows scripts to be run in PowerShell
-- cd to the *Folder* where you downloaded/cloned [AP-Snakes.ps1](AP-Snakes.ps1)
-- `./Ap-Snakes.ps1`*`<arguments>`*
+- cd to the *Folder* where you downloaded/cloned [Flappy-Shell.ps1](Flappy-Shell.ps1)
+- `./Flappy-Shell.ps1`*`<arguments>`*
 
